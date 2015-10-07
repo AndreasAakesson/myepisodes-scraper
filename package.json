@@ -1,0 +1,13 @@
+{
+  "name": "myepisodes-scraper",
+  "version": "0.0.1",
+  "description": "Get all watched shows from MyEpisodes",
+  "main": "app.js",
+  "author": "Andreas Åkesson",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "prompt": "^0.2.14",
+    "request": "latest"
+  }
+}
